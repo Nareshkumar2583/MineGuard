@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pymongo
+python-dotenv
+matplotlib
+scikit-learn
+joblib
+rasterio
+scipy

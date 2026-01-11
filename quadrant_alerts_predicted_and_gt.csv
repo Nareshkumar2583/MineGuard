@@ -1,0 +1,5 @@
+Quadrant,GT_Risky_Pixels,Pred_Pixels>=0.60,Pred_Avg,Pred_Max,Pred_Alert,GT_Alert
+Top-Left,312,312,0.202,0.926,YES,YES
+Top-Right,8,8,0.151,0.892,NO,NO
+Bottom-Left,485,485,0.232,0.895,YES,YES
+Bottom-Right,799,799,0.285,0.908,YES,YES
