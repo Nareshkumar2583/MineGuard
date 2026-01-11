@@ -1,7 +1,7 @@
 🛡️ #MineGuard
 #AI-Powered Mining Safety & Risk Prediction System
 
-MineGuard is a machine-learning based safety monitoring system designed to predict risk levels in mining operations using sensor and environmental data.
+MineGuard is a machine-learning based safety monitoring system designed to predict risk levels in mining operations using sensor and environmental data. 
 It helps mine operators take early preventive actions to avoid accidents and equipment failures.
 
 🚀# Features
